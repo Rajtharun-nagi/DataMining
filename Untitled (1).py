@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-pip install efficient-apriori
-
-
-# In[1]:
-
-
 import pandas as pd
 from itertools import combinations
 import time
