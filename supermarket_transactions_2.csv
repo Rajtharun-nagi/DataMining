@@ -1,0 +1,21 @@
+Transaction ID,Date,Items,Total Amount
+T1,2024-09-27,['Canned Soup'],98.84
+T2,2024-09-19,"['Laundry Detergent', 'Toothpaste', 'Batteries', 'Snacks']",19.05
+T3,2024-09-17,"['Diapers', 'Toilet Paper', 'Snacks', 'Batteries', 'Canned Soup']",18.3
+T4,2024-09-06,"['Batteries', 'Toilet Paper']",63.71
+T5,2024-09-22,"['Snacks', 'Canned Soup', 'Toilet Paper', 'Batteries', 'Cereal']",85.51
+T6,2024-09-04,"['Batteries', 'Cereal']",37.79
+T7,2024-09-15,['Batteries'],15.07
+T8,2024-09-19,"['Laundry Detergent', 'Shampoo', 'Canned Soup', 'Toilet Paper']",67.52
+T9,2024-10-02,"['Cooking Oil', 'Toilet Paper', 'Canned Soup', 'Snacks']",33.27
+T10,2024-09-20,"['Shampoo', 'Toilet Paper', 'Cereal', 'Toothpaste', 'Canned Soup']",38.53
+T11,2024-09-30,['Cereal'],16.84
+T12,2024-09-25,"['Toilet Paper', 'Laundry Detergent', 'Shampoo', 'Snacks']",47.9
+T13,2024-09-13,"['Laundry Detergent', 'Canned Soup', 'Batteries']",14.07
+T14,2024-09-03,"['Shampoo', 'Diapers', 'Toothpaste']",19.01
+T15,2024-09-11,['Batteries'],95.18
+T16,2024-09-14,"['Laundry Detergent', 'Snacks', 'Cereal', 'Canned Soup']",15.94
+T17,2024-09-30,"['Batteries', 'Laundry Detergent', 'Toothpaste']",29.9
+T18,2024-09-06,"['Toothpaste', 'Shampoo', 'Cereal', 'Toilet Paper']",19.31
+T19,2024-09-10,"['Canned Soup', 'Batteries', 'Cereal', 'Laundry Detergent']",70.14
+T20,2024-09-12,"['Diapers', 'Batteries', 'Shampoo']",27.04
